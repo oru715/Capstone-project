@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background: rgba(100, 148, 237, 0.384);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    max-height: 100px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid;
+    justify-content: center;
+    padding: 10px;
+    padding-bottom: 40px;
+    border-radius: 30px;
+    background-color:rgba(65, 105, 225, 0.123);
+    box-shadow: 28px 28px 56px royalblue,
+            
+}
